@@ -25,7 +25,7 @@
     @apply w-full h-screen pt-[60px] xl:pt-[120px];
   }
   .btn{
-    @apply rounded-[10px] w-full uppercase font-medium text-white tracking-[12px] text-[13px] flex justify-center items-center transition-all duration-300;
+    @apply rounded-[10px] w-full uppercase font-medium text-white tracking-[2px] text-[13px] flex justify-center items-center transition-all duration-300;
   }
   .btn-sm{
     @apply h-14;
