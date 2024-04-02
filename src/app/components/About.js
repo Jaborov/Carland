@@ -114,7 +114,7 @@ const About = () => {
                                 </div>
                                 {/* btn */}
                             </motion.div>
-                            <button
+                            <motion.button
                                 variants={fadeIn('up', 1)}
                                 initial="hidden"
                                 whileInView={'show'}
@@ -124,7 +124,7 @@ const About = () => {
                                 tracking-[2px] text-[13px] max-w-[184px]"
                             >
                                 See all cars
-                            </button>
+                            </motion.button>
                         </div>
                     </div>
                 </div>
